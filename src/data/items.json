@@ -1314,6 +1314,13 @@
     "image": "nuoctayrua/nuoc_xa_downy.jpg"
   },
   {
+    "name": "Nước xả homie",
+    "unit": "gói",
+    "price": 2000,
+    "strip": 16000,
+    "image": "nuoctayrua/nuoc_xa_homie.jpg"
+  },
+  {
     "name": "Nước tẩy đồ javel",
     "unit": "chai",
     "price": 8000,
@@ -1324,6 +1331,12 @@
     "unit": "gói",
     "price": 20000,
     "image": "nuoctayrua/bot_giat_omo_nho.jpg"
+  },
+  {
+    "name": "Bột giặt omo lớn",
+    "unit": "bao",
+    "price": 130000,
+    "image": "nuoctayrua/bao_bot_giat_omo_lon.jpg"
   },
   {
     "name": "Nước rửa chén lix vàng",
