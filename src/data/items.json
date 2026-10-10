@@ -1384,7 +1384,7 @@
   {
     "name": "Canh rửa chén lix trắng",
     "unit": "canh",
-    "price": 30000,
+    "price": 28000,
     "image": "nuoctayrua/canh_rua_chen_lix_trang.jpg"
   },
   {
@@ -1396,7 +1396,7 @@
   {
     "name": "Canh rửa chén lix vàng lớn",
     "unit": "canh",
-    "price": 32000,
+    "price": 75000,
     "image": "nuoctayrua/canh_rua_chen_lix_vang_lon.jpg"
   },
   {
