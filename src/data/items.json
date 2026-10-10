@@ -127,6 +127,13 @@
     "image": "douong/pepsi_lon.jpg"
   },
   {
+    "name": "Pepsi lon nhỏ không đường",
+    "unit": "lon",
+    "price": 8000,
+    "pack": 50000,
+    "image": "douong/pepsi_lon_khong_duong.jpg"
+  },
+  {
     "name": "7up chai nhỏ",
     "unit": "chai",
     "price": 8000,
@@ -1062,6 +1069,30 @@
     "image": "banhkeo/banh_mi_ngot_an_lien.jpg"
   },
   {
+    "name": "Bánh mì sữa nướng",
+    "unit": "gói",
+    "price": 10000,
+    "image": "banhkeo/banh_mi_sua_nuong.jpg"
+  },
+  {
+    "name": "Bánh quy kem",
+    "unit": "gói",
+    "price": 10000,
+    "image": "banhkeo/banh_quy_kem.jpg"
+  },
+  {
+    "name": "Bánh giòn",
+    "unit": "gói",
+    "price": 10000,
+    "image": "banhkeo/banh_gion.jpg"
+  },
+  {
+    "name": "Bánh dừa nướng",
+    "unit": "gói",
+    "price": 10000,
+    "image": "banhkeo/banh_dua_nuong.jpg"
+  },
+  {
     "name": "Bánh mì sandwich dâu tây",
     "unit": "gói",
     "price": 5000,
@@ -1072,6 +1103,12 @@
     "unit": "gói",
     "price": 10000,
     "image": "banhkeo/banh_trung_thu.jpg"
+  },
+  {
+    "name": "Bánh trung thu nhỏ",
+    "unit": "gói",
+    "price": 10000,
+    "image": "banhkeo/banh_trung_thu_nho.jpg"
   },
   {
     "name": "Kẹo gói",
